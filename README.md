@@ -1,0 +1,1 @@
+# smart-extension-cebu-wemos
